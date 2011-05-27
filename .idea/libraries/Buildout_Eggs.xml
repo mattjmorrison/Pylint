@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="Buildout Eggs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../apps/vector/src" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/django_unittest_depth-0.6-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/windmill-1.6-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/django_debug_toolbar-0.8.5-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/pylint-0.22.0-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/mock_ext-0.3-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/mock-0.7.1-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/clonedigger-1.1.0-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/coverage-3.4-py2.6-linux-i686.egg" />
+      <root url="file:///usr/local/lib/python2.6/dist-packages" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/unittest_xml_reporting-1.2-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/lxml-2.3-py2.6-linux-i686.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/pdfminer-20110227-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/html5lib-0.90-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/pisa-3.0.34-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/paramiko-1.7.6-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/Fabric-1.0.1-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/django_google_maps-0.6-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/django_multiselect-1.1-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/MySQL_python-1.2.3-py2.6-linux-i686.egg" />
+      <root url="file:///usr/lib/python2.6/dist-packages/PIL" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/jsmin-2.0.2-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/reportlab-2.5.1-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/pyPdf-1.13-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/PyYAML-3.09-py2.6-linux-i686.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/South-0.7.3-py2.6.egg" />
+      <root url="jar://$PROJECT_DIR$/../apps/vector/eggs/pyasn1-0.0.13b-py2.6.egg!/" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/Django-1.3-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/logilab_astng-0.21.0-py2.6.egg" />
+      <root url="jar://$PROJECT_DIR$/../apps/vector/eggs/distribute-0.6.16-py2.6.egg!/" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/logilab_common-0.55.2-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/eggs/pycrypto-2.3-py2.6-linux-i686.egg" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/src/apps_models" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/src/django_extensions" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/src/scripts" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/src/utility" />
+      <root url="file://$PROJECT_DIR$/../apps/vector/src/webapps" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
