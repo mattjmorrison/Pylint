@@ -424,9 +424,13 @@ def expand_modules(files_or_modules, black_list):
     """take a list of files/modules/packages and return the list of tuple
     (file, module name) which have to be actually checked
     """
+    real_stuff = []
+    for file_or_module_name in files_or_modules:
+        if not any([re.search(pattern, file_or_module_name) for pattern in black_list]):
+            real_stuff.append(file_or_module_name)
     result = []
     errors = []
-    for something in files_or_modules:
+    for something in real_stuff:
         if exists(something):
             # this is a file or a directory
             try:
